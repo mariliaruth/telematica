@@ -1,0 +1,1 @@
+# Este repositorio busca compartilhar os arquivos das provas realizadas, bem como os arquivos, livros, videos e links que ajudaram no processo de desenvolvimento do meu aprendizado enqaunto aluna do Instituto Federal do Ceará - Campus Fortaleza
